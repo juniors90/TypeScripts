@@ -36,3 +36,14 @@ Created a new tsconfig.json with:
 
 You can learn more at https://aka.ms/tsconfig
 ```
+
+[typescript-jsx](https://runebook.dev/es/docs/typescript/jsx)
+
+
+[Las anotaciones de tipo solo se pueden usar en los archivos TypeScript.ts(8010)](https://stackoverflow.com/questions/48859169/error-types-can-only-be-used-in-a-ts-file-visual-studio-code-using-ts-che)
+
+```JavaScrips
+{
+  "javascript.validate.enable": false
+}
+```
