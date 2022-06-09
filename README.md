@@ -22,7 +22,7 @@ npx tsc demo.tsx --target es6 --outDir dist
 
 ## creando el archivo tsconfig.json
 
-````
+```
 $> npx tsc --init
 Created a new tsconfig.json with:                                                                                       
                                                                                                                      TS 
