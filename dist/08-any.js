@@ -9,5 +9,5 @@
     const rta = myDinamicVar.toLowerCase();
     console.log("rta", rta);
     myDinamicVar = 21212;
-    const rta2 = (React.createElement("number", null, "myDinamicVar).toFixed() console.log(\"rta\", rta) })();"));
+    const rta2 = (React.createElement("number", null, "myDinamicVar).toFixed() console.log(\"rta\", rta2) })();"));
 });
